@@ -16,7 +16,6 @@ async function moveNPC(){
     await npc.walkNorth (400)
 
 }
-
 moveNPC()
 //testing sleep and await
 
